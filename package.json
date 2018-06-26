@@ -1,7 +1,7 @@
 {
-  "name": "wdi-project",
+  "name": "birdie-test",
   "version": "1.0.0",
-  "description": "A React and Webpack setup for WDI",
+  "description": "Birdie Test - Emily Isacke",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
